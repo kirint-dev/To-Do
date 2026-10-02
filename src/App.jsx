@@ -63,7 +63,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-slate-50 px-4 py-8 text-slate-800 sm:py-14">
       <main className="mx-auto max-w-xl">
-        <h1 className="mb-6 text-3xl font-bold">รายการสิ่งที่ต้องทำ</h1>
+        <h1 className="mb-6 text-3xl font-bold">รายการสิ่งที่ต้องทำของ Kirin</h1>
 
         <div className="mb-4 flex flex-col gap-2 rounded-2xl bg-white p-4 shadow-md sm:flex-row">
           <input
